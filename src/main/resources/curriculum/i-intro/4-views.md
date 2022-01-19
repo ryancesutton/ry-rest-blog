@@ -79,7 +79,7 @@ We must do the following to use Thymeleaf:
 ## TODO: Create an endpoint to serve static assets for the blog app
 
 #### 1. Inside `src/main/java/com.codeup.blogapp`, create a package titled `web`.
- - This package will be responsible for holding all of our controllers.
+ - This package will be responsible for holding all of our com.example.ryrestblog.controllers.
 
 
 #### 2. Inside `web`, create a class named `ViewController`.

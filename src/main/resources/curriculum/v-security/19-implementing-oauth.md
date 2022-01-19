@@ -254,7 +254,7 @@ Later on, we will change the `jwtSigningKey` to be something a *little* more sec
 
 ### In `security`, create a class named `ResourceServerConfiguration`.
 
-- This class is responsible for the actual securing of individual endpoints defined in our controllers.
+- This class is responsible for the actual securing of individual endpoints defined in our com.example.ryrestblog.controllers.
 - We can define
     - which endpoints are accessible by all
     - which require authentication

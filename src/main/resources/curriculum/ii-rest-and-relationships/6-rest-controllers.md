@@ -153,7 +153,7 @@ With this dependency, we will have a ***very*** handy testing and documentation 
 
 Start your application and navigate to `http://localhost:8080/swagger-ui.html`
 
-What you will see is live documentation and endpoint testing tools of currently registered controllers.
+What you will see is live documentation and endpoint testing tools of currently registered com.example.ryrestblog.controllers.
 
 You can test any endpoint and even get sample requests/responses to help you along!
 
